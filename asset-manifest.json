@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/reactgram2/static/js/main.7b8e5435.chunk.js",
+    "main.js.map": "/reactgram2/static/js/main.7b8e5435.chunk.js.map",
+    "runtime-main.js": "/reactgram2/static/js/runtime-main.ba634b0b.js",
+    "runtime-main.js.map": "/reactgram2/static/js/runtime-main.ba634b0b.js.map",
+    "static/js/2.1adb7f08.chunk.js": "/reactgram2/static/js/2.1adb7f08.chunk.js",
+    "static/js/2.1adb7f08.chunk.js.map": "/reactgram2/static/js/2.1adb7f08.chunk.js.map",
+    "index.html": "/reactgram2/index.html",
+    "static/js/2.1adb7f08.chunk.js.LICENSE.txt": "/reactgram2/static/js/2.1adb7f08.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba634b0b.js",
+    "static/js/2.1adb7f08.chunk.js",
+    "static/js/main.7b8e5435.chunk.js"
+  ]
+}
