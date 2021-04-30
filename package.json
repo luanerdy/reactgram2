@@ -1,7 +1,7 @@
 {
   "name": "insta",
   "version": "0.1.0",
-  "homepage": "http://luanerdy.github.io/reactgram2/",
+  "homepage": "http://luanerdy.github.io/reactgram2",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
