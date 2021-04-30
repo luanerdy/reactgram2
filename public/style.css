@@ -121,7 +121,8 @@ body {
   height: 66px;
   width: 66px;
   background-image: url('./assets/img/stories_background.jpg');
-  
+  background-size: cover;
+  background-position: center;
 }
 
 .story .imagem img {
